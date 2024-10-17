@@ -31,7 +31,7 @@ This is the backend for **PassOp**, a secure password manager built using Node.j
 
 1. **Clone the repository**:
     ```bash
-    [git clone https://github.com/your-username/passop-backend.git](https://github.com/Sujal-Gupta-SG/password-manager-backend.git)
+      https://github.com/Sujal-Gupta-SG/password-manager-backend.git
     cd passop-backend
     ```
 
